@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "xmkckks"
-version = "0.0.1"
+version = "0.0.2"
 description = "A package for xmkckks"
 authors = [
     {name = "mmRoshani", email = "mohammadmojtabaroshani@outlook.com"}

@@ -24,14 +24,14 @@ You can install the package via **PyPI** or from **source**.
 ### Install from PyPI
 
 ```bash
-pip install mlpredictor
+pip install xmkckks
 ```
 
 ### Install from Source (GitHub)
 
 ```bash
-git clone https://github.com/ebimsv/mlpredictor.git
-cd mlpredictor
+git clone https://github.com/mmRoshani/xmkckks.git
+cd xmkckks
 pip install .
 ```
 
